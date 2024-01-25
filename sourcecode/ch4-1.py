@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn
+import seaborn as sns
 
 df = pd.read_csv('./datasets/ABNB_stock/ABNB_stock.csv')
 
